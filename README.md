@@ -1,3 +1,7 @@
+# MOVE TO ZeroBraneStudio: http://notebook.kulchenko.com/zerobrane/torch-debugging-with-zerobrane-studio
+## You no longer need this fork to use torch in zerobranestudio. The above link shows full integration with Torch.
+
+# DEPRECEATED.
 # Project Description
 
 ZBS-torch is a fork of ZeroBrane Studio to get it to work with Torch-7
